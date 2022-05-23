@@ -1,0 +1,35 @@
+
+.travel_box {
+    border: 2px solid lightcyan;
+}
+.travel_box img {
+    width: 100%;
+}
+.travel_box h5 , .travel_box p{
+    margin: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: yellow;
+}
+
+
+
+.movie_text {
+    color:white;
+}
+
+#campuslife {
+color:white;
+}
